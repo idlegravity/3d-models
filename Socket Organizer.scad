@@ -10,7 +10,6 @@ sockets = [
     [ [ 24, 20, "10" ], [ 24, 20, "11" ], [ 24, 20, "12" ], [ 24, 20, "13" ], [ 24, 20, "14" ], [ 24, 20, "15" ], [ 24, 20, "16" ] ]
 ];
 
-hole_depth = 20;                // Depth of the holes.
 clearance = .5;                 // Additional clearance around each socket.
 margin = 2;                     // Space between sockets and the edge of the tray.
 min_padding = 2;                // Minimum space between each socket. Padding may be increased on some rows to keep spacing even.
