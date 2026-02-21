@@ -1,0 +1,12 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "256",
+            "base_h": "2",
+            "clearance": "0.10000000000000001",
+            "depth": "15",
+            "wall": "2"
+        }
+    }
+}
